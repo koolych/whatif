@@ -1,0 +1,14 @@
+body{
+    padding: 60px;
+    background-color: antiquewhite;
+    margin: 0
+}
+.container{
+    background-color: aliceblue;
+}
+h1 {
+    margin: 0;
+}
+p {
+    margin-top: 0;
+}
